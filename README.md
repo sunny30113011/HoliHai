@@ -1,1 +1,1 @@
-# HoliHai
+# happy-holi-project-using-html-css-javascript
